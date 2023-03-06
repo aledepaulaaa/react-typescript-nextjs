@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Esta aplicação foi criada com NextJs, TypeScript e React.
+
 ## Getting Started
 
 First, run the development server:
@@ -11,6 +13,12 @@ yarn dev
 # or
 pnpm dev
 ```
+
+<hr>
+<h1>Observação importante ⚠️</h1>
+<p> - Quando faço a tipagem com TypeScript em algumas partes, ao rodar a aplicação e testar adicionar um nome, o navegador simplesmente trava, sendo que segui passo a passo das aulas do Discover da Rocketseat.</p>
+<p> - Então, resolvi publicar esta versão menos tipada com typescript. Vou tentar descobrir porque acontece isso, mas vale tentar. Esse App é feito com base nas aulas do Discover da Rocketseat.</p>
+<hr>
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
